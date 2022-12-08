@@ -1,4 +1,4 @@
-`hugo deploy`
+`hugo && hugo deploy`
 
 `hugo server`
 

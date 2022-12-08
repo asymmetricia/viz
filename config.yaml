@@ -20,7 +20,17 @@ params:
   homeInfoParams:
     title: Tricia × Advent of Code
     Content: |
-      Hi! It's me! Your friendly neighborhood Tricia! Welcome to `viz`, a little site mostly focused on my visualization work for Advent of Code. Hope you enjoy reading!
+      Hi! It's me! Your friendly neighborhood Tricia! Welcome to `viz`, a
+      little site mostly focused on my visualization work for Advent of Code.
+      Hope you enjoy reading!
+
+      ## About Me
+
+      I'm a security & infrastructure engineer. I mostly work on very large
+      Internet systems, usually dealing with things like Go, Terraform, and
+      AWS. In my spare time I enjoy baking, woodworking, sailing, circus
+      aerials, rock climbing, bicycling, and video games. I live with my wife
+      in San Francisco, where we raise our darling cat Chell.
 
   socialIcons:
     - name: mastodon

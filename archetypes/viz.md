@@ -1,7 +1,8 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "YYYY {{ replace .Name "-" " " | title }}: A Subtitle"
 date: {{ .Date }}
 draft: true
+tags: [ 'advent-of-code', 'YYYY' ]
 ---
 Day NN was all about XX.
 

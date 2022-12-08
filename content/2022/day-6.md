@@ -1,6 +1,7 @@
 ---
-title: "Day 6 - Message Markers"
+title: "2022 Day 6: Message Markers"
 date: 2022-12-05
+tags: [ "advent-of-code", "2022" ]
 ---
 In day 6, we're looking for start of message markers in a series of bytes.
 
@@ -19,4 +20,6 @@ some UI embellishments.
 
 ## New Features
 
-I don't remember what (if anything) I added here!
+For today, I added a new font (!!) and thus support for multiple fonts. The new
+font is a 7seg-style rendering, which is used for the counter. It doesn't look
+very 7seg to me, but it has the right properties...

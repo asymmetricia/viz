@@ -13,6 +13,24 @@ minify:
 params:
   author: Tricia Bogen
   defaultTheme: dark
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  UseHugoToc: true
+
+  homeInfoParams:
+    title: Tricia × Advent of Code
+    Content: |
+      Hi! It's me! Your friendly neighborhood Tricia! Welcome to `viz`, a little site mostly focused on my visualization work for Advent of Code. Hope you enjoy reading!
+
+  socialIcons:
+    - name: mastodon
+      url: https://tech.lgbt/@tricia
+    - name: github
+      url: https://github.com/asymmetricia
+    - name: kofi
+      url: https://ko-fi.com/asymmetricia
+    - name: rss
+      url: index.xml
 
 sectionPagesMenu: main
 

@@ -1,7 +1,7 @@
 ---
 title: "2022 Day 7: A Directory Tree 🎄"
 date: 2022-12-06
-draft: false
+tags: [ "advent-of-code", "2022" ]
 ---
 Day 7 involved parsing the output of a shell transcript. 
 

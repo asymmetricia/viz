@@ -1,0 +1,29 @@
+baseURL: https://viz.cernu.us
+languageCode: en-us
+title: Tricia's Advent of Code
+theme: PaperMod
+copyright: "Copyright 2022 Tricia Bogen"
+
+enableEmoji: true
+enableRobotsTXT: true
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  author: Tricia Bogen
+  defaultTheme: dark
+
+sectionPagesMenu: main
+
+menu:
+  main:
+    - identifier: 2022
+      name: 2022
+      url: /2022/
+
+deployment:
+  targets:
+    - name: "viz.cernu.us"
+      URL: "s3://viz-cernu-us?region=us-west-1"
+      cloudFrontDistributionID: E159E0YQ6AVWL5

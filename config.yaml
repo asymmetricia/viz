@@ -49,6 +49,9 @@ menu:
     - identifier: 2022
       name: 2022
       url: /2022/
+    - identifier: 2021
+      name: 2021
+      url: /2021/
 
 deployment:
   targets:

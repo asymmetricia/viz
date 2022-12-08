@@ -2,7 +2,7 @@ baseURL: https://viz.cernu.us
 languageCode: en-us
 title: Tricia's Advent of Code
 theme: PaperMod
-copyright: "Copyright 2022 Tricia Bogen"
+copyright: "Copyright © 2022 Tricia Bogen"
 
 enableEmoji: true
 enableRobotsTXT: true
@@ -11,11 +11,18 @@ minify:
   minifyOutput: true
 
 params:
+  env: production
   author: Tricia Bogen
   defaultTheme: dark
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
   UseHugoToc: true
+
+  description: |
+    A chronicle of one girl's experience making pretty animations from Advent of
+    Code puzzles.
+
+  images: [ "images/font-demo.gif" ]
 
   homeInfoParams:
     title: Tricia × Advent of Code

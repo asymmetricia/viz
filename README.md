@@ -1,0 +1,3 @@
+`hugo deploy`
+
+`hugo server`

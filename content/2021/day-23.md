@@ -2,6 +2,7 @@
 title: "2021 Day 23: Labyrinth of Hanoi"
 date: 2022-04-17
 tags: [ 'advent-of-code', '2021' ]
+images: ['/images/2021-day23.gif']
 ---
 Day 23 was a twist on the classic Towers of Hanoi puzzle.
 

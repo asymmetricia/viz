@@ -2,6 +2,7 @@
 title: "2022 Day 2: Slot Machine?"
 date: 2022-12-01
 tags: [ 'advent-of-code', '2022' ]
+images: ['/images/2022-day02.gif']
 ---
 Day 2 was a rock-paper-scissors simulator, in an interestingly backwards sense. 
 

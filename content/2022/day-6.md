@@ -2,6 +2,7 @@
 title: "2022 Day 6: Message Markers"
 date: 2022-12-05
 tags: [ "advent-of-code", "2022" ]
+images: ['/images/2022-day06.gif']
 ---
 In day 6, we're looking for start of message markers in a series of bytes.
 

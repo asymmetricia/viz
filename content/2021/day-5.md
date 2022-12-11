@@ -1,6 +1,6 @@
 ---
 title: "2021 Day 5: Just Venting"
-date: 2022-12-10T22:12:14-08:00
+date: 2021-12-04
 tags: [ 'advent-of-code', '2021' ]
 images: ['/images/2021-day05.gif']
 ---

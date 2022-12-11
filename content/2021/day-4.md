@@ -1,6 +1,6 @@
 ---
 title: "2021 Day 4: Bingo!"
-date: 2022-12-10T22:21:47-08:00
+date: 2021-12-03
 tags: [ 'advent-of-code', '2021' ]
 images: ['/images/2021-day04.gif']
 ---

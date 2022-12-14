@@ -2,7 +2,7 @@
 title: "2022 Day 14: Sand Everywhere"
 date: 2022-12-13T22:37:29-08:00
 tags: [ 'advent-of-code', '2022' ]
-images: ['/images/2022-day14.gif']
+images: ['/images/2022-day14-v2.gif']
 ---
 Day 14, we're trapped in a cave that's being filled in by sand.
 
@@ -22,6 +22,15 @@ states, and then 2% of settled states.
 
 I threw in a particle counter in the top left because, well, I have font
 rendering code and I may as well use it.
+
+### Update `2022-12-14`
+
+I had a bit of inspiration and realized I can visualize this as a continuous
+flow of sand, if I'm careful about the order of updating particles. Et voila!
+
+![Day 14 Visualization v2](/images/2022-day14-v2.gif)
+
+### Original
 
 ![Day 14 Visualization](/images/2022-day14.gif)
 

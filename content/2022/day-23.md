@@ -1,8 +1,8 @@
 ---
 title: "2022 Day 23: Elfian Motion"
 date: 2022-12-22T21:54:13-08:00
-tags: [ 'advent-of-code', '2023' ]
-images: ['/images/2023-day23.png']
+tags: [ 'advent-of-code', '2022' ]
+images: ['/images/2022-day23.png']
 ---
 
 On day 23, we help the elves to plant saplings.

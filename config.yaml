@@ -39,6 +39,7 @@ params:
       aerials, rock climbing, bicycling, and video games. I live with my wife
       in San Francisco, where we raise our darling cat Chell.
 
+  social: true
   socialIcons:
     - name: mastodon
       url: https://tech.lgbt/@tricia

@@ -2,7 +2,7 @@ baseURL: https://viz.cernu.us
 languageCode: en-us
 title: Tricia's Advent of Code
 theme: PaperMod
-copyright: "Copyright © 2022 Tricia Bogen"
+copyright: "Copyright © 2024 Tricia Bogen"
 
 enableEmoji: true
 enableRobotsTXT: true
@@ -39,14 +39,17 @@ params:
       aerials, rock climbing, bicycling, and video games. I live with my wife
       in San Francisco, where we raise our darling cat Chell.
 
+  mainSections:
+    - 2024
+    - 2022
+    - 2021
+
   social: true
   socialIcons:
     - name: mastodon
       url: https://tech.lgbt/@tricia
     - name: github
       url: https://github.com/asymmetricia
-    - name: kofi
-      url: https://ko-fi.com/asymmetricia
     - name: rss
       url: index.xml
 
@@ -54,6 +57,9 @@ sectionPagesMenu: main
 
 menu:
   main:
+    - identifier: 2024
+      name: 2024
+      url: /2024/
     - identifier: 2022
       name: 2022
       url: /2022/
